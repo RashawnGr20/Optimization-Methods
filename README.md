@@ -6,7 +6,8 @@ The focus is on building intuition by implementing everything from scratch and v
 ## Setup
 ```bash
 pip install -r requirements.txt
-
+```
 ## Run
-`##'
+`##`
 jupyter notebook notebook.ipynb
+`##`
