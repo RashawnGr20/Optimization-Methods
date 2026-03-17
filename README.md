@@ -1,6 +1,8 @@
 Optimization Methods: Momentum, Normalized GD, Hessians & Linear Regression
-This project explores a few optimization methods and how they behave in practice. 
+
+This project explores a few optimization methods and how they behave in practice.
 The focus is on building intuition by implementing everything from scratch and visualizing the results.
+
 Setup
 pip install -r requirements.txt
 Run
