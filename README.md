@@ -8,6 +8,5 @@ The focus is on building intuition by implementing everything from scratch and v
 pip install -r requirements.txt
 ```
 ## Run
-`##`
 jupyter notebook notebook.ipynb
-`##`
+
